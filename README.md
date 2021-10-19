@@ -1,4 +1,4 @@
-<div><img src="/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" width="100px"</img></div>
+<div><img src="app/src/main/res/drawable-v24/kotlin_binding_icon.png" width="100px"</img></div>
 # ScoreCard-DataBinding-Kotlin<br>
 
 The simplest databinding codelab to understand kotlin data binding library<br>
